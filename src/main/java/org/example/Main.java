@@ -19,6 +19,6 @@ public class Main {
 
             System.out.println(printout);
             counter++;
-        } while (counter != 100);
+        } while (counter != 101);
     }
 }
